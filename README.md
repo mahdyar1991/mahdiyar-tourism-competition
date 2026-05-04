@@ -48,4 +48,4 @@ API Keys و اطلاعات حساس در این ریپازیتوری قرار ن
 
 ![صفحه ثبت نام](register-page.png)
 ![صفحه لاگین](login-page.png)
-![فرم ثبت نام](register-form.png)
+![صقحه فراموشی رمز](Forgot-page.png)
